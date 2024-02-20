@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica;
+    background-color: azure;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: rgb(200, 160, 238);
+    position: relative;
+    margin: 50% auto;
+    padding: 20px 50px;
+}
+
+.parabens h1 {
+    text-align: center;
+    color: rgb(137, 63, 10);
+}
+
+.parabens p {
+    text-align: center;
+    font-style: italic;
+}
+
+.imagens {
+    text-align: center;
+    margin-left: -4%;
+}
+
